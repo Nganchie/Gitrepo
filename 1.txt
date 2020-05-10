@@ -1,1 +1,2 @@
-my comman
+my comman can be modify at any time 
+checkout the changes effected on the code
